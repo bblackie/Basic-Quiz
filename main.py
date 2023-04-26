@@ -1,4 +1,5 @@
 # Python quiz game
+print("Another change")
 
 QUESTIONS = ("How many elements are in the periodic table?: ",
                        "Which animal lays the largest eggs?: ",
