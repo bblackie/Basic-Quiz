@@ -51,6 +51,7 @@ def ask_questions():
       print("INCORRECT!")
       print(f"{ANSWERS[question_num]} is the correct answer")
     question_num += 1
+    print("this is madness")
 
   return result
 
